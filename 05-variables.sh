@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#taking the inputs from command prompt
+#taking the inputs from command line
 
 echo "Enter the username::"
 read username
