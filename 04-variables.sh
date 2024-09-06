@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# declare a variables and assign the value for pervious script 
+# declare a variables at run-time 
 person1=$1
 person2=$2
 
